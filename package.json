@@ -1,0 +1,24 @@
+{
+  "name": "npm-objarr-manager",
+  "version": "0.0.1",
+  "description": "object and array manipulation for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussan/npm-objarr-manager.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "array"
+  ],
+  "author": " <yussan yussandeveloper@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yussan/npm-objarr-manager/issues"
+  },
+  "homepage": "https://github.com/yussan/npm-objarr-manager#readme"
+}
